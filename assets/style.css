@@ -45,8 +45,8 @@ textarea.subpap {font-size:13px; font-family: Verdana, Helvetica, sans-serif; ba
 h2 {font-family: Georgia, "Times New Roman", serif; font-size:26px; color:#048; font-weight: normal; margin-bottom:6px; margin-top:20px;}
 h2.smalltop {margin-top:2px}
 h3 {font-family: Georgia, "Times New Roman", serif; font-size:22px; color:#048; font-weight: normal; margin-bottom:12px; margin-top:20px; padding-bottom:2px; border-bottom:2px solid #98AFC7;}
-h4 {font-family: Georgia, "Times New Roman", serif; font-size:18px; color:#048; font-weight: normal; margin-bottom:6px; margin-top:12px;}
-h5 {font-family: Georgia, "Times New Roman", serif; font-size: 14px; color: #048; font-weight: bold; margin-bottom:2px; margin-top:4px;}
+h4 {font-family: Georgia, "Times New Roman", serif; font-size: 18px; color:#048; font-weight: normal; margin-bottom:6px; margin-top:12px;}
+h5 {font-family: Georgia, "Times New Roman", serif; font-size: 14px; color: #048; font-weight: normal; margin-bottom:12px; margin-top:4px;}
 
 table {text-align:left; border:0px; margin-top:10px; margin-bottom:10px}
 table.pad5 td {padding:2px 5px}
